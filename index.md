@@ -10,6 +10,6 @@ var myVar = "Hello, world!";
 ```
 
 # <h3>header
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [×] Turn on GitHub Pages
+- [×] Outline my portfolio
 - [ ] Introduce myself to the world
